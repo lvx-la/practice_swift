@@ -6,19 +6,22 @@
 //:
 //: これまでに身につけた知識を使えば、次のようなコメントと数を使って各動物の数を把握できます。
 // Number Of Dogs（犬の数）
-5
+7
 
 // Number Of Cats（猫の数）
-4
+5
 
 // Number Of Turtles（カメの数）
-3
+2
+
+// Number Of hamster
+1
 //: コードの新しい行にそれらの数字をコピーすれば、Playgroundが計算をしてくれます。
 // Total Number Of Animals（動物の合計数）
-5 + 4 + 3
+7 + 5 + 2 + 1
 
 // Total Number Of Mammals（哺乳類の合計数）
-5 + 4
+7 + 5 + 1
 //: - experiment:
 //:(実験):
 //:後日、ショーに来場するペットについて、さらに情報が入りました。\

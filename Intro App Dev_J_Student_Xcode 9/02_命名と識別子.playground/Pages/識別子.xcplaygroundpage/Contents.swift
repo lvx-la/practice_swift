@@ -16,6 +16,11 @@ let totalNumberOfAnimals = numberOfDogs + numberOfCats + numberOfTurtles + numbe
 
 let totalNumberOfMammals = numberOfDogs + numberOfCats + numberOfHamsters
 
+let littlePig = 1
+
+let fish = 1
+
+let snake = 1
 //: - experiment:
 //:(実験): 
 //:ペットショーに来場するペットについて、さらに変更がありました。\

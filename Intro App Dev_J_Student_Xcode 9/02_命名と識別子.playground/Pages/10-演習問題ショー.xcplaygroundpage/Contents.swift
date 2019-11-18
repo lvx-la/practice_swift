@@ -24,6 +24,12 @@
 //:上のコードを参照してlet文を使って定数を定義し、友達が問題を解決できるようにしてください。\
 //:下のコードを追加します。すぐに始められるように、定数`numberOfTickets`はすでに定義されています。 
 let numberOfTickets = 150
+let ticketPrice = 10
+let roomRentalFee = 50
+let posterCost = 40
+let totalTicketValue = numberOfTickets * ticketPrice
+let totalExpenses = roomRentalFee + posterCost
+let totalIncomOfShow = totalTicketValue - totalExpenses
 
 //:
 //:[前ヘ](@previous)  |  10／14ページ  |  [次は「演習問題：抽選券」です。](@next)

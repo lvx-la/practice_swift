@@ -6,13 +6,13 @@
 //: Swiftでは、「定数（Constants）」を定義することによって、名前を選択して1つの値に関連付けることができます。定数については、コースの後の部分で詳しく説明します。ここでは、定数はSwiftで値に名前を付ける基本的な方法だと覚えておけば十分です。
 //:
 //: `let`という語の後に定数を定義する名前と等号`=`を続けると、定数に値を指定できます。
-let numberOfDogs = 6
+let numberOfDogs = 6 + 2
 
-let numberOfCats = 5
+let numberOfCats = 5 - 1
 
-let numberOfTurtles = 2
+let numberOfTurtles = 2 + 1
 
-let numberOfHamsters = 1
+let numberOfHamsters = 1 + 1
 
 //: 定数を定義して値を代入すると、その値を使うあらゆる場所で定数を使用できます。次のように、新しい定数の値を定義する数学的な計算式の中でも定数を使用できます。
 
