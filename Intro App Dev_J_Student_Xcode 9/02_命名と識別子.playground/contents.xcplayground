@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='はじめに'/>
+        <page name='ペットの問題'/>
+        <page name='ペットの問題のまとめ'/>
+        <page name='名前を付ける'/>
+        <page name='オートコンプリート'/>
+        <page name='識別子'/>
+        <page name='よい名前'/>
+        <page name='プログラマが使う言葉'/>
+        <page name='まとめ'/>
+        <page name='10-演習問題ショー'/>
+        <page name='11-演習問題抽選'/>
+        <page name='12-演習問題iPhone'/>
+        <page name='13-演習問題朝'/>
+        <page name='14-演習問題名前'/>
+    </pages>
+</playground>
